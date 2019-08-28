@@ -1,2 +1,2 @@
-# Regression-Housing-Pricing-Project-
-regression housing prediction project
+# artificial intelligence projects
+(python models)
